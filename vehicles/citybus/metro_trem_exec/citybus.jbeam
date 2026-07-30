@@ -1,0 +1,11 @@
+{
+  "citybus_skin_metro_trem_exec": {
+   "information":{
+       "authors":"blryface",
+       "name":"Metropolitano TREM (Executivo)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "metro_trem_exec"
+   }
+}

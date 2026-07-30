@@ -1,0 +1,11 @@
+{
+  "citybus_skin_metro_vermelho": {
+   "information":{
+       "authors":"blryface",
+       "name":"Metropolitano Vermelho (RMBH)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "metro_vermelho"
+   }
+}

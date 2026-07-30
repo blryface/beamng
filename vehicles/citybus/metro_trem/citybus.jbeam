@@ -1,0 +1,11 @@
+{
+  "citybus_skin_metro_trem": {
+   "information":{
+       "authors":"blryface",
+       "name":"Metropolitano TREM",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "metro_trem"
+   }
+}

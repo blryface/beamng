@@ -1,0 +1,11 @@
+{
+  "citybus_skin_igp_igaratrans": {
+   "information":{
+       "authors":"blryface",
+       "name":"Municipal Igarapé (Célere / Igaratrans)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "igp_igaratrans"
+   }
+}

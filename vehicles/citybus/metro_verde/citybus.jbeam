@@ -1,0 +1,11 @@
+{
+  "citybus_skin_metro_verde": {
+   "information":{
+       "authors":"blryface",
+       "name":"Metropolitano Verde - Executivo (RMBH)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "metro_verde"
+   }
+}

@@ -1,0 +1,11 @@
+{
+  "citybus_skin_metro_azul": {
+   "information":{
+       "authors":"blryface",
+       "name":"Metropolitano Azul (RMBH)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "metro_azul"
+   }
+}

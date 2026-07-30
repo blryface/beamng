@@ -1,0 +1,11 @@
+{
+  "citybus_skin_igp_celere": {
+   "information":{
+       "authors":"blryface",
+       "name":"Municipal Igarapé (Célere)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "igp_celere"
+   }
+}
