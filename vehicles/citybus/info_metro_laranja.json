@@ -5,7 +5,7 @@
 "Value":35000,
 "TorquePeakRPM":1200,
 "Description":"Antiga pintura do Transporte Estadual Metropolitano.\nEssa pintura está presente em vários ônibus metropolitanos das frotas mais antigas.\nEssa pintura faz mais sentido com o WentWard DT40L porque é comum em ônibus mais velhos.",
-"Configuration":"Metropolitano Laranja (RMBH)",
+"Configuration":"Metropolitano Laranja",
 "Drivetrain":"Other",
 "Induction Type":"Turbo",
 "Config Type":"Service",

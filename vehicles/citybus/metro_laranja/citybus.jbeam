@@ -2,7 +2,7 @@
   "citybus_skin_metro_laranja": {
    "information":{
        "authors":"blryface",
-       "name":"Metropolitano Laranja (RMBH)",
+       "name":"Metropolitano Laranja",
        "value":200,
    }
    "slotType" : "paint_design",
