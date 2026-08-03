@@ -1,0 +1,11 @@
+{
+  "citybus_skin_transcon_verde": {
+   "information":{
+       "authors":"blryface",
+       "name":"Transcon Verde - Contagem",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "transcon_verde"
+   }
+}
